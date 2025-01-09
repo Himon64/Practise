@@ -1,0 +1,14 @@
+nav > ul > li{
+    display:inline ;
+    margin: 12px;
+}
+nav  li>a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    margin-top: 23px;
+}
+#himon{
+    background-color: aqua;
+}
